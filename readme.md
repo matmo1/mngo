@@ -69,7 +69,7 @@
 1. Инсталирайте MongoDB и се уверете, че сървърът работи.
 2. Клонирайте това репо:
 ```
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/matmo1/mngo.git
 cd project-name
 ```
 3. Стартирайте Mongo Shell или MongoDB Compass.
